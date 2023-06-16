@@ -1,0 +1,35 @@
+.container3{
+    display: flex;
+}
+.text3{
+width: 384px;
+font-family: 'Itoya-Bold';
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+color: #4C696D;
+}
+.text4{
+    width: 477px;
+    font-family: 'Itoya-Light';
+    font-size: 20px;
+    line-height: 23px;
+    color: #0C0C0C;
+    margin-top: -19px;
+}
+.para1{
+    width: 217px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #4C696D;
+    float: right;
+    margin-top: -81px;
+}
+.main{
+    background-color: #A1E3D8;
+    height: 326px;
+    width: 100%;
+}

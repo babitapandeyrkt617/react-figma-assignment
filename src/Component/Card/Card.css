@@ -1,0 +1,41 @@
+.card{
+    width: 304px;
+    height: 175px;
+   
+    margin-left: 22px;
+  
+    border-radius: 24px 24px 0px 0px;
+}
+.pic{
+    position: relative;
+    left: 103px;
+    top: -60px;
+}
+.item{
+    width: 199px;
+    height: 86px;
+    background: #2C2C2C;
+    border-radius: 6px;
+    margin-top: -26px;
+}
+.pic1{
+    width: 198px;
+}
+.item .text {
+    font-family: 'Itoya-Light';
+    font-size: 17px;
+    line-height: 19px;
+    color: #FFFFFF;
+    position: relative;
+    top: 16px;
+    left: 10px;
+}
+.item .text1 {
+font-family: 'Itoya-Light';
+font-size: 17px;
+line-height: 19px;
+color: #FFFFFF;
+position: relative;
+    
+    left: 10px;
+}

@@ -1,0 +1,31 @@
+.card-con{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 284px;
+
+}
+.right .text1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 29px;
+    color: #000000;
+}
+.right .para1{
+   
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    margin-top: -13px;
+}
+.right{
+    margin-top: -10px;
+    margin-left: 12px;
+}
+.left img{
+    width: 100px;
+}

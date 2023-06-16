@@ -1,0 +1,27 @@
+.main1{
+    background-color: #FFFFFF;
+    width:100%;
+}
+.container4{
+    display: flex;
+}
+.text7{
+width: 384px;
+font-family: 'Itoya-Bold';
+font-size: 36px;
+line-height: 42px;
+color: #4C696D;
+margin-top: 62px;
+font-size: 26px;
+margin-left: 51px;
+}
+.text8{
+width: 478px;
+height: 61px;
+font-family: 'Itoya-Light';
+font-size: 20px;
+line-height: 23px;
+margin-left: 57px;
+color: #0C0C0C;
+margin-top: -14px;
+}

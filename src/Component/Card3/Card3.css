@@ -1,0 +1,12 @@
+.sub-card{
+    width: 244.33px;
+    height: 307.25px;
+background: #DDF8F3;
+opacity: 0.6;
+box-shadow: 0px 6px 7px rgba(0, 0, 0, 0.39);
+border-radius: 10px;
+}
+
+.last-card{
+    margin-top: -5px;
+}

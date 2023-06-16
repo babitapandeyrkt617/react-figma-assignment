@@ -1,0 +1,70 @@
+.test-card{
+    width: 180.24px;
+    height: 275.77px;
+    left: 738.39px;
+    top: 4805.66px;
+    
+    background: #416F75;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    
+}
+.test-round-card{
+    position: absolute;
+    width: 114.87px;
+    height: 115.74px;
+    border-radius: 50%;
+    left: 100px;
+    top: -50px;
+}
+.test-round-card1{
+    position: absolute;
+    width: 114.87px;
+    height: 115.74px;
+    border-radius: 50%;
+    left: 320px;
+    top: -50px;
+}
+.test-round-card2{
+    position: absolute;
+    width: 114.87px;
+    height: 115.74px;
+    border-radius: 50%;
+    left: 540px;
+    top: -50px;
+}
+.test-round-card3{
+    position: absolute;
+    width: 114.87px;
+    height: 115.74px;
+    border-radius: 50%;
+    left: 765px;
+    top: -50px;
+}
+.testimonials-p1{
+width: 164.6px;
+margin-top:100px;
+display: inline-block;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+/* line-height: 18px; */
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.testimonials-h2{
+width: 164.44px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
